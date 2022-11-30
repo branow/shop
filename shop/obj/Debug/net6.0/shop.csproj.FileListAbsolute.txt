@@ -1,0 +1,43 @@
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.csproj.AssemblyReference.cache
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.AssemblyInfoInputs.cache
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.AssemblyInfo.cs
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.csproj.CoreCompileInputs.cache
+D:\VS Project\oop\shop\shop\bin\Debug\net6.0\shop.exe
+D:\VS Project\oop\shop\shop\bin\Debug\net6.0\shop.deps.json
+D:\VS Project\oop\shop\shop\bin\Debug\net6.0\shop.runtimeconfig.json
+D:\VS Project\oop\shop\shop\bin\Debug\net6.0\shop.dll
+D:\VS Project\oop\shop\shop\bin\Debug\net6.0\shop.pdb
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.dll
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\refint\shop.dll
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.pdb
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\shop.genruntimeconfig.cache
+D:\VS Project\oop\shop\shop\obj\Debug\net6.0\ref\shop.dll
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.csproj.AssemblyReference.cache
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.AssemblyInfoInputs.cache
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.AssemblyInfo.cs
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.csproj.CoreCompileInputs.cache
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.dll
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\refint\shop.dll
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.pdb
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\shop.exe
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\shop.deps.json
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\shop.runtimeconfig.json
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\shop.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\shop.pdb
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.genruntimeconfig.cache
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\ref\shop.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\MySql.Data.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\Google.Protobuf.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\ZstdNet.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\vs-project\kpi\oop\shop\shop\bin\Debug\net6.0\MySql.Data.xml
+D:\vs-project\kpi\oop\shop\shop\obj\Debug\net6.0\shop.csproj.CopyComplete

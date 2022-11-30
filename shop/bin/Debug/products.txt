@@ -1,0 +1,7 @@
+[id=3;
+price=34,2;
+name=phone;
+category=Laptops;
+description=;
+sellerId=5;
+]
